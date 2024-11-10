@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main() {
+int main()
+{
     int num1, num2;
     char operation;
 
@@ -37,4 +37,3 @@ int main() {
 
     return 0;
 }
-```
